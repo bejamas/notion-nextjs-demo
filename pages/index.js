@@ -14,10 +14,10 @@ export default function Home({posts}) {
       <main className={styles.main}>
         <h1>Blog</h1>
         {posts.map((post, index) => (
-          <section key={index}>
+          <section key={index} className={styles.card}>
             <div>
-                <h2><Link href={post.slug}>
-                <a>{post.title}</a>
+                <h2><Link href={`/posts/${post.slug}`}>
+                <a className={styles.action}>{post.title}</a>
                 </Link></h2>
                 <div>
                     {post.date}
