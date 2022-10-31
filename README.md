@@ -21,8 +21,14 @@ npm run dev
 # or
 yarn dev
 ```
-#### Deploy to vercel
+#### Deploy with Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fsamuelkraft%2Fnotion-blog-nextjs&env=NOTION_TOKEN,NOTION_DATABASE_ID&envDescription=Please%20add%20NOTION_TOKEN%20and%20NOTION_DATABASE_ID%20that%20is%20required%20to%20connect%20the%20blog%20to%20your%20notion%20account.&envLink=https%3A%2F%2Fdevelopers.notion.com%2Fdocs%2Fgetting-started&project-name=notion-blog-nextjs&repo-name=notion-blog-nextjs&demo-title=Notion%20Blog%20Next%20JS&demo-description=%20This%20is%20a%20Next.js%20blog%20using%20Notions%20Public%20API.&demo-url=notion-blog-nextjs-coral.vercel.app)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fgathoni-k%2FNotion-Nextjs&env=NOTION_TOKEN,DATABASE_ID&project-name=notion-nextjs-blog&demo-title=Notion%20%2B%20Nextjs%20Blog&demo-description=A%20statically%20generated%20Next.js%20blog%20powered%20by%20Notion&demo-url=https%3A%2F%2Fnextjs-blog-beta-one-81.vercel.app%2F)
 
 Check out this repo's [deployed version](https://nextjs-blog-beta-one-81.vercel.app/).
+
+#### Deploy with Netlify
+
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gathoni-k/Notion-Nextjs)
+
+
