@@ -9,7 +9,7 @@ Create a Notion database with the following fields.
 * Published - Indicates whether the post is published or not. Only the published posts will be displayed on the blog.
 * Date- The date the post was published
 
-Follow [Notion's getting started guide](https://developers.notion.com/docs/getting-started#step-1-create-an-integration) to get a NOTION_TOKEN and a NOTION_DATABASE_ID, then add them to a file called .env.local.
+Follow [Notion's getting started guide](https://developers.notion.com/docs/getting-started#step-1-create-an-integration) to get a NOTION_TOKEN and a NOTION_DATABASE_ID, then add them to the .env file.
 ```
 NOTION_TOKEN=
 DATABASE_ID=
