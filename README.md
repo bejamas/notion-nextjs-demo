@@ -14,7 +14,8 @@ Follow [Notion's getting started guide](https://developers.notion.com/docs/getti
 NOTION_TOKEN=
 DATABASE_ID=
 ```
-Here is a [sample Notion database](https://www.notion.so/marygathoni/4fc4211e751f4d66929791c61bc1054f?v=32fe9dd175774d57a32a79fc787e3fd2).
+Here is a [sample Notion database](https://www.notion.so/marygathoni/4fc4211e751f4d66929791c61bc1054f?v=32fe9dd175774d57a32a79fc787e3fd2) you can duplicate.
+
 Run the development server:
 
 ```bash
