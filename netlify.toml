@@ -1,3 +1,7 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+  
 [template.environment]
   NOTION_TOKEN = "set the notion token"
   DATABASE_ID = "set the database ID
